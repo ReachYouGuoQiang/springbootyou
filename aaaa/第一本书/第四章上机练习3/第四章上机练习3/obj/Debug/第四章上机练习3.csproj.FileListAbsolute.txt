@@ -1,0 +1,13 @@
+C:\Users\Ma Li Wei\Desktop\学习软件\S2第一本书上机练习\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.exe.config
+C:\Users\Ma Li Wei\Desktop\学习软件\S2第一本书上机练习\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.exe
+C:\Users\Ma Li Wei\Desktop\学习软件\S2第一本书上机练习\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.pdb
+C:\Users\Ma Li Wei\Desktop\学习软件\S2第一本书上机练习\第四章上机练习3\第四章上机练习3\obj\Debug\第四章上机练习3.exe
+C:\Users\Ma Li Wei\Desktop\学习软件\S2第一本书上机练习\第四章上机练习3\第四章上机练习3\obj\Debug\第四章上机练习3.pdb
+E:\S2All\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.exe.config
+E:\S2All\第四章上机练习3\第四章上机练习3\obj\Debug\第四章上机练习3.exe
+E:\S2All\第四章上机练习3\第四章上机练习3\obj\Debug\第四章上机练习3.pdb
+E:\S2All\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.exe
+E:\S2All\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.pdb
+E:\S2All\第一本书\第四章上机练习3\第四章上机练习3\bin\Debug\第四章上机练习3.exe.config
+E:\S2All\第一本书\第四章上机练习3\第四章上机练习3\obj\Debug\第四章上机练习3.exe
+E:\S2All\第一本书\第四章上机练习3\第四章上机练习3\obj\Debug\第四章上机练习3.pdb

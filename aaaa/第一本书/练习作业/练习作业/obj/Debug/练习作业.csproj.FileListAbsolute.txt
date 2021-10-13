@@ -1,0 +1,9 @@
+E:\S2All\练习作业\练习作业\bin\Debug\练习作业.exe.config
+E:\S2All\练习作业\练习作业\bin\Debug\练习作业.exe
+E:\S2All\练习作业\练习作业\bin\Debug\练习作业.pdb
+E:\S2All\练习作业\练习作业\obj\Debug\练习作业.csprojResolveAssemblyReference.cache
+E:\S2All\练习作业\练习作业\obj\Debug\练习作业.exe
+E:\S2All\练习作业\练习作业\obj\Debug\练习作业.pdb
+E:\S2All\第一本书\练习作业\练习作业\bin\Debug\练习作业.exe.config
+E:\S2All\第一本书\练习作业\练习作业\obj\Debug\练习作业.exe
+E:\S2All\第一本书\练习作业\练习作业\obj\Debug\练习作业.pdb

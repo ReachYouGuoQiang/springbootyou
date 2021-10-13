@@ -1,0 +1,13 @@
+E:\S2All\城市作业10遍\城市作业10遍\bin\Debug\城市作业10遍.exe.config
+E:\S2All\城市作业10遍\城市作业10遍\bin\Debug\城市作业10遍.exe
+E:\S2All\城市作业10遍\城市作业10遍\bin\Debug\城市作业10遍.pdb
+E:\S2All\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.csprojResolveAssemblyReference.cache
+E:\S2All\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.Form1.resources
+E:\S2All\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.Properties.Resources.resources
+E:\S2All\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.csproj.GenerateResource.Cache
+E:\S2All\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.exe
+E:\S2All\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.pdb
+E:\S2All\城市作业10遍\城市作业10遍\bin\Debug\Student.xml
+E:\S2All\第一本书\城市作业10遍\城市作业10遍\bin\Debug\城市作业10遍.exe.config
+E:\S2All\第一本书\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.exe
+E:\S2All\第一本书\城市作业10遍\城市作业10遍\obj\Debug\城市作业10遍.pdb

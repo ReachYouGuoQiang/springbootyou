@@ -1,0 +1,8 @@
+E:\S2All\11.16自主练习\11.16自主练习\bin\Debug\11.16自主练习.exe.config
+E:\S2All\11.16自主练习\11.16自主练习\bin\Debug\11.16自主练习.exe
+E:\S2All\11.16自主练习\11.16自主练习\bin\Debug\11.16自主练习.pdb
+E:\S2All\11.16自主练习\11.16自主练习\obj\Debug\_11._16自主练习.Form1.resources
+E:\S2All\11.16自主练习\11.16自主练习\obj\Debug\_11._16自主练习.Properties.Resources.resources
+E:\S2All\11.16自主练习\11.16自主练习\obj\Debug\11.16自主练习.csproj.GenerateResource.Cache
+E:\S2All\11.16自主练习\11.16自主练习\obj\Debug\11.16自主练习.exe
+E:\S2All\11.16自主练习\11.16自主练习\obj\Debug\11.16自主练习.pdb

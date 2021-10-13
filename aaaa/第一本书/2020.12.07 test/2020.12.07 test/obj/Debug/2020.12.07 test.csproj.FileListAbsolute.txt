@@ -1,0 +1,18 @@
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\bin\Debug\2020.12.07 test.exe.config
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\bin\Debug\2020.12.07 test.exe
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\bin\Debug\2020.12.07 test.pdb
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.csprojResolveAssemblyReference.cache
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\obj\Debug\_2020._12._07_test.Properties.Resources.resources
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.csproj.GenerateResource.Cache
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.exe
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.pdb
+E:\Visual Studio\2020.12.07 test\2020.12.07 test\obj\Debug\_2020._12._07_test.FrmMain.resources
+F:\2020.12.07 test\2020.12.07 test\bin\Debug\2020.12.07 test.exe.config
+F:\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.exe
+F:\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.pdb
+G:\2020.12.07 test\2020.12.07 test\bin\Debug\2020.12.07 test.exe.config
+G:\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.exe
+G:\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.pdb
+E:\S2All\2020.12.07 test\2020.12.07 test\bin\Debug\2020.12.07 test.exe.config
+E:\S2All\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.exe
+E:\S2All\2020.12.07 test\2020.12.07 test\obj\Debug\2020.12.07 test.pdb

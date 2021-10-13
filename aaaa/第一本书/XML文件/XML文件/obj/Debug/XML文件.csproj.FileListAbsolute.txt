@@ -1,0 +1,8 @@
+E:\S2All\XML文件\XML文件\bin\Debug\XML文件.exe.config
+E:\S2All\XML文件\XML文件\bin\Debug\Student.xml
+E:\S2All\XML文件\XML文件\bin\Debug\XML文件.exe
+E:\S2All\XML文件\XML文件\bin\Debug\XML文件.pdb
+E:\S2All\XML文件\XML文件\obj\Debug\XML文件.csprojResolveAssemblyReference.cache
+E:\S2All\XML文件\XML文件\obj\Debug\XML文件.exe
+E:\S2All\XML文件\XML文件\obj\Debug\XML文件.pdb
+E:\S2All\XML文件\XML文件\bin\Debug\Student1.xml

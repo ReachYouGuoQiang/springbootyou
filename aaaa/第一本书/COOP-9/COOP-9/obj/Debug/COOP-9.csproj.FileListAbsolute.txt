@@ -1,0 +1,11 @@
+D:\c#oop\COOP-9\COOP-9\bin\Debug\COOP-9.exe.config
+E:\S2All\第一本书\COOP-9\COOP-9\bin\Debug\COOP-9.exe.config
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP-9.csprojResolveAssemblyReference.cache
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP_9.Form1.resources
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP_9.Form2.resources
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP_9.Properties.Resources.resources
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP-9.csproj.GenerateResource.Cache
+E:\S2All\第一本书\COOP-9\COOP-9\bin\Debug\COOP-9.exe
+E:\S2All\第一本书\COOP-9\COOP-9\bin\Debug\COOP-9.pdb
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP-9.exe
+E:\S2All\第一本书\COOP-9\COOP-9\obj\Debug\COOP-9.pdb

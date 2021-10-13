@@ -1,0 +1,12 @@
+E:\S2All\计算机\计算机\bin\Debug\计算机.exe.config
+E:\S2All\计算机\计算机\bin\Debug\计算机.exe
+E:\S2All\计算机\计算机\bin\Debug\计算机.pdb
+E:\S2All\计算机\计算机\obj\Debug\计算机.csprojResolveAssemblyReference.cache
+E:\S2All\计算机\计算机\obj\Debug\计算机.Form1.resources
+E:\S2All\计算机\计算机\obj\Debug\计算机.Properties.Resources.resources
+E:\S2All\计算机\计算机\obj\Debug\计算机.csproj.GenerateResource.Cache
+E:\S2All\计算机\计算机\obj\Debug\计算机.exe
+E:\S2All\计算机\计算机\obj\Debug\计算机.pdb
+E:\S2All\第一本书\计算机\计算机\bin\Debug\计算机.exe.config
+E:\S2All\第一本书\计算机\计算机\obj\Debug\计算机.exe
+E:\S2All\第一本书\计算机\计算机\obj\Debug\计算机.pdb

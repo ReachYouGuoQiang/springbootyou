@@ -1,0 +1,9 @@
+E:\S2All\尤国强结业考试\尤国强结业考试\bin\Debug\尤国强结业考试.exe.config
+E:\S2All\尤国强结业考试\尤国强结业考试\obj\Debug\尤国强结业考试.Form1.resources
+E:\S2All\尤国强结业考试\尤国强结业考试\obj\Debug\尤国强结业考试.Properties.Resources.resources
+E:\S2All\尤国强结业考试\尤国强结业考试\obj\Debug\尤国强结业考试.csproj.GenerateResource.Cache
+E:\S2All\尤国强结业考试\尤国强结业考试\bin\Debug\尤国强结业考试.exe
+E:\S2All\尤国强结业考试\尤国强结业考试\bin\Debug\尤国强结业考试.pdb
+E:\S2All\尤国强结业考试\尤国强结业考试\obj\Debug\尤国强结业考试.exe
+E:\S2All\尤国强结业考试\尤国强结业考试\obj\Debug\尤国强结业考试.pdb
+E:\S2All\尤国强结业考试\尤国强结业考试\obj\Debug\尤国强结业考试.csprojResolveAssemblyReference.cache

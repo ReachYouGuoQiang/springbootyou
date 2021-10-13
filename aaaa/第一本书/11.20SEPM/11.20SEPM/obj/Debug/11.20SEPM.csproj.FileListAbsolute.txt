@@ -1,0 +1,12 @@
+E:\S2All\11.20SEPM\11.20SEPM\bin\Debug\11.20SEPM.exe.config
+E:\S2All\11.20SEPM\11.20SEPM\bin\Debug\11.20SEPM.exe
+E:\S2All\11.20SEPM\11.20SEPM\bin\Debug\11.20SEPM.pdb
+E:\S2All\11.20SEPM\11.20SEPM\obj\Debug\11.20SEPM.csprojResolveAssemblyReference.cache
+E:\S2All\11.20SEPM\11.20SEPM\obj\Debug\_11._20SEPM.Form1.resources
+E:\S2All\11.20SEPM\11.20SEPM\obj\Debug\_11._20SEPM.Properties.Resources.resources
+E:\S2All\11.20SEPM\11.20SEPM\obj\Debug\11.20SEPM.csproj.GenerateResource.Cache
+E:\S2All\11.20SEPM\11.20SEPM\obj\Debug\11.20SEPM.exe
+E:\S2All\11.20SEPM\11.20SEPM\obj\Debug\11.20SEPM.pdb
+E:\S2All\第一本书\11.20SEPM\11.20SEPM\bin\Debug\11.20SEPM.exe.config
+E:\S2All\第一本书\11.20SEPM\11.20SEPM\obj\Debug\11.20SEPM.exe
+E:\S2All\第一本书\11.20SEPM\11.20SEPM\obj\Debug\11.20SEPM.pdb

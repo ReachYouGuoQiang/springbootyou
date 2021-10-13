@@ -1,0 +1,9 @@
+E:\S2All\考试第二题\考试第二题\bin\Debug\考试第二题.exe.config
+E:\S2All\考试第二题\考试第二题\bin\Debug\考试第二题.exe
+E:\S2All\考试第二题\考试第二题\bin\Debug\考试第二题.pdb
+E:\S2All\考试第二题\考试第二题\obj\Debug\考试第二题.csprojResolveAssemblyReference.cache
+E:\S2All\考试第二题\考试第二题\obj\Debug\考试第二题.Form1.resources
+E:\S2All\考试第二题\考试第二题\obj\Debug\考试第二题.Properties.Resources.resources
+E:\S2All\考试第二题\考试第二题\obj\Debug\考试第二题.csproj.GenerateResource.Cache
+E:\S2All\考试第二题\考试第二题\obj\Debug\考试第二题.exe
+E:\S2All\考试第二题\考试第二题\obj\Debug\考试第二题.pdb

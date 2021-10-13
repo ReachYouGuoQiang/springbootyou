@@ -1,0 +1,12 @@
+E:\S2All\员工回家\员工回家\bin\Debug\员工回家.exe.config
+E:\S2All\员工回家\员工回家\bin\Debug\员工回家.exe
+E:\S2All\员工回家\员工回家\bin\Debug\员工回家.pdb
+E:\S2All\员工回家\员工回家\obj\Debug\员工回家.csprojResolveAssemblyReference.cache
+E:\S2All\员工回家\员工回家\obj\Debug\员工回家.exe
+E:\S2All\员工回家\员工回家\obj\Debug\员工回家.pdb
+E:\S2All\第一本书\员工回家\员工回家\bin\Debug\员工回家.exe.config
+E:\S2All\第一本书\员工回家\员工回家\obj\Debug\员工回家.exe
+E:\S2All\第一本书\员工回家\员工回家\obj\Debug\员工回家.pdb
+E:\S2All\第一本书\员工回家\员工回家\bin\Debug\员工回家.exe
+E:\S2All\第一本书\员工回家\员工回家\bin\Debug\员工回家.pdb
+E:\S2All\第一本书\员工回家\员工回家\obj\Debug\员工回家.csprojResolveAssemblyReference.cache

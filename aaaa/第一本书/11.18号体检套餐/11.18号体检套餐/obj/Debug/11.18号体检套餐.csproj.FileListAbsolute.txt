@@ -1,0 +1,9 @@
+E:\S2All\11.18号体检套餐\11.18号体检套餐\bin\Debug\11.18号体检套餐.exe.config
+E:\S2All\11.18号体检套餐\11.18号体检套餐\obj\Debug\_11._18号体检套餐.Form1.resources
+E:\S2All\11.18号体检套餐\11.18号体检套餐\obj\Debug\_11._18号体检套餐.Properties.Resources.resources
+E:\S2All\11.18号体检套餐\11.18号体检套餐\obj\Debug\11.18号体检套餐.csproj.GenerateResource.Cache
+E:\S2All\11.18号体检套餐\11.18号体检套餐\bin\Debug\11.18号体检套餐.exe
+E:\S2All\11.18号体检套餐\11.18号体检套餐\bin\Debug\11.18号体检套餐.pdb
+E:\S2All\11.18号体检套餐\11.18号体检套餐\obj\Debug\11.18号体检套餐.exe
+E:\S2All\11.18号体检套餐\11.18号体检套餐\obj\Debug\11.18号体检套餐.pdb
+E:\S2All\11.18号体检套餐\11.18号体检套餐\obj\Debug\11.18号体检套餐.csprojResolveAssemblyReference.cache

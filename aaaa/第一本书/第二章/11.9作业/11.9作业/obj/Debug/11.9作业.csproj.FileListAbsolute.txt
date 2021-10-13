@@ -1,0 +1,6 @@
+E:\S2All\11.9作业\11.9作业\bin\Debug\11.9作业.exe.config
+E:\S2All\11.9作业\11.9作业\bin\Debug\11.9作业.exe
+E:\S2All\11.9作业\11.9作业\bin\Debug\11.9作业.pdb
+E:\S2All\11.9作业\11.9作业\obj\Debug\11.9作业.csprojResolveAssemblyReference.cache
+E:\S2All\11.9作业\11.9作业\obj\Debug\11.9作业.exe
+E:\S2All\11.9作业\11.9作业\obj\Debug\11.9作业.pdb

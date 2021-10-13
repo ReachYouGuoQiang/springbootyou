@@ -1,0 +1,5 @@
+E:\S2All\会员积分\会员积分\bin\Debug\会员积分.exe.config
+E:\S2All\会员积分\会员积分\bin\Debug\会员积分.exe
+E:\S2All\会员积分\会员积分\bin\Debug\会员积分.pdb
+E:\S2All\会员积分\会员积分\obj\Debug\会员积分.exe
+E:\S2All\会员积分\会员积分\obj\Debug\会员积分.pdb

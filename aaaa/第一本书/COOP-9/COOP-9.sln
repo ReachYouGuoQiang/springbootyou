@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COOP-9", "COOP-9\COOP-9.csproj", "{B0D26063-48C8-4CDB-A8ED-CA9B1558834D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D26063-48C8-4CDB-A8ED-CA9B1558834D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D26063-48C8-4CDB-A8ED-CA9B1558834D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D26063-48C8-4CDB-A8ED-CA9B1558834D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D26063-48C8-4CDB-A8ED-CA9B1558834D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

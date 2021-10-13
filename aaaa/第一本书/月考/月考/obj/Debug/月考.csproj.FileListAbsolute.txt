@@ -1,0 +1,6 @@
+E:\S2All\月考\月考\bin\Debug\月考.exe.config
+E:\S2All\月考\月考\bin\Debug\月考.exe
+E:\S2All\月考\月考\bin\Debug\月考.pdb
+E:\S2All\月考\月考\obj\Debug\月考.csprojResolveAssemblyReference.cache
+E:\S2All\月考\月考\obj\Debug\月考.exe
+E:\S2All\月考\月考\obj\Debug\月考.pdb

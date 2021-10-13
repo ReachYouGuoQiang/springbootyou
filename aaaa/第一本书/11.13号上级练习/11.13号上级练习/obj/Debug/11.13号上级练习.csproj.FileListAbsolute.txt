@@ -1,0 +1,9 @@
+E:\S2All\11.13号上级练习\11.13号上级练习\bin\Debug\11.13号上级练习.exe.config
+E:\S2All\11.13号上级练习\11.13号上级练习\bin\Debug\11.13号上级练习.exe
+E:\S2All\11.13号上级练习\11.13号上级练习\bin\Debug\11.13号上级练习.pdb
+E:\S2All\11.13号上级练习\11.13号上级练习\obj\Debug\11.13号上级练习.csprojResolveAssemblyReference.cache
+E:\S2All\11.13号上级练习\11.13号上级练习\obj\Debug\11.13号上级练习.exe
+E:\S2All\11.13号上级练习\11.13号上级练习\obj\Debug\11.13号上级练习.pdb
+E:\S2All\第一本书\11.13号上级练习\11.13号上级练习\bin\Debug\11.13号上级练习.exe.config
+E:\S2All\第一本书\11.13号上级练习\11.13号上级练习\obj\Debug\11.13号上级练习.exe
+E:\S2All\第一本书\11.13号上级练习\11.13号上级练习\obj\Debug\11.13号上级练习.pdb

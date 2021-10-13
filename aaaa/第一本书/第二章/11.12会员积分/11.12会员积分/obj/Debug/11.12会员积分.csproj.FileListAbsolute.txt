@@ -1,0 +1,6 @@
+E:\S2All\11.12会员积分\11.12会员积分\bin\Debug\11.12会员积分.exe.config
+E:\S2All\11.12会员积分\11.12会员积分\bin\Debug\11.12会员积分.exe
+E:\S2All\11.12会员积分\11.12会员积分\bin\Debug\11.12会员积分.pdb
+E:\S2All\11.12会员积分\11.12会员积分\obj\Debug\11.12会员积分.csprojResolveAssemblyReference.cache
+E:\S2All\11.12会员积分\11.12会员积分\obj\Debug\11.12会员积分.exe
+E:\S2All\11.12会员积分\11.12会员积分\obj\Debug\11.12会员积分.pdb

@@ -1,0 +1,6 @@
+E:\S2All\值类型与引用类型\值类型与引用类型\bin\Debug\值类型与引用类型.exe.config
+E:\S2All\值类型与引用类型\值类型与引用类型\bin\Debug\值类型与引用类型.exe
+E:\S2All\值类型与引用类型\值类型与引用类型\bin\Debug\值类型与引用类型.pdb
+E:\S2All\值类型与引用类型\值类型与引用类型\obj\Debug\值类型与引用类型.csprojResolveAssemblyReference.cache
+E:\S2All\值类型与引用类型\值类型与引用类型\obj\Debug\值类型与引用类型.exe
+E:\S2All\值类型与引用类型\值类型与引用类型\obj\Debug\值类型与引用类型.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<School name="徐州中博">
+    <Grade name="S1">
+      <Strdent>
+    <Name>张靓</Name>
+    <GradeName>S1</GradeName>
+    <Age>21</Age>
+        </Strdent>
+      <Strdent>
+        <Name>张三</Name>
+        <GradeName>S1</GradeName>
+        <Age>22</Age>
+      </Strdent>
+  </Grade>
+  <Grade name="S2">
+    <Student>
+      <Name>马利伟</Name>
+      <GradeName>S2</GradeName>
+      <Age>25</Age>
+    </Student>
+    </Grade>
+  </School>

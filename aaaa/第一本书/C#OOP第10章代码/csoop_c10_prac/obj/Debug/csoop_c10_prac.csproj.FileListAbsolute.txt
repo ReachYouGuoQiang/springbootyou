@@ -1,0 +1,24 @@
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\bin\Debug\csoop_c10_prac.exe.config
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\obj\Debug\csoop_c10_prac.csprojResolveAssemblyReference.cache
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\obj\Debug\csoop_c10_prac.Form1.resources
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\obj\Debug\csoop_c10_prac.Properties.Resources.resources
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\obj\Debug\csoop_c10_prac.csproj.GenerateResource.Cache
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\bin\Debug\csoop_c10_prac.exe
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\bin\Debug\csoop_c10_prac.pdb
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\obj\Debug\csoop_c10_prac.exe
+E:\Visual Studio\csoop_c10_prac\csoop_c10_prac\obj\Debug\csoop_c10_prac.pdb
+F:\C#OOP第10章代码\csoop_c10_prac\bin\Debug\csoop_c10_prac.exe.config
+F:\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.exe
+F:\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.pdb
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\bin\Debug\csoop_c10_prac.exe.config
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.exe
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.pdb
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\bin\Debug\csoop_c10_prac.exe
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\bin\Debug\csoop_c10_prac.pdb
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.csprojResolveAssemblyReference.cache
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.Form1.resources
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.Properties.Resources.resources
+D:\S2上级练习\第十章\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.csproj.GenerateResource.Cache
+E:\S2All\第一本书\C#OOP第10章代码\csoop_c10_prac\bin\Debug\csoop_c10_prac.exe.config
+E:\S2All\第一本书\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.exe
+E:\S2All\第一本书\C#OOP第10章代码\csoop_c10_prac\obj\Debug\csoop_c10_prac.pdb

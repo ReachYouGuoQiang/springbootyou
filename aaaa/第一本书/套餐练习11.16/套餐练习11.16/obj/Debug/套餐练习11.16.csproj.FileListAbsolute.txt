@@ -1,0 +1,9 @@
+E:\S2All\套餐练习11.16\套餐练习11.16\bin\Debug\套餐练习11.16.exe.config
+E:\S2All\套餐练习11.16\套餐练习11.16\bin\Debug\套餐练习11.16.exe
+E:\S2All\套餐练习11.16\套餐练习11.16\bin\Debug\套餐练习11.16.pdb
+E:\S2All\套餐练习11.16\套餐练习11.16\obj\Debug\套餐练习11._16.Form1.resources
+E:\S2All\套餐练习11.16\套餐练习11.16\obj\Debug\套餐练习11._16.Properties.Resources.resources
+E:\S2All\套餐练习11.16\套餐练习11.16\obj\Debug\套餐练习11.16.csproj.GenerateResource.Cache
+E:\S2All\套餐练习11.16\套餐练习11.16\obj\Debug\套餐练习11.16.exe
+E:\S2All\套餐练习11.16\套餐练习11.16\obj\Debug\套餐练习11.16.pdb
+E:\S2All\套餐练习11.16\套餐练习11.16\obj\Debug\套餐练习11.16.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\S2All\动物看病\动物看病\bin\Debug\动物看病.exe.config
+E:\S2All\动物看病\动物看病\obj\Debug\动物看病.csprojResolveAssemblyReference.cache
+E:\S2All\动物看病\动物看病\bin\Debug\动物看病.exe
+E:\S2All\动物看病\动物看病\bin\Debug\动物看病.pdb
+E:\S2All\动物看病\动物看病\obj\Debug\动物看病.exe
+E:\S2All\动物看病\动物看病\obj\Debug\动物看病.pdb
+E:\S2All\第一本书\动物看病\动物看病\bin\Debug\动物看病.exe.config
+E:\S2All\第一本书\动物看病\动物看病\obj\Debug\动物看病.exe
+E:\S2All\第一本书\动物看病\动物看病\obj\Debug\动物看病.pdb
+E:\S2All\第一本书\动物看病\动物看病\obj\Debug\动物看病.csprojResolveAssemblyReference.cache
+E:\S2All\第一本书\动物看病\动物看病\bin\Debug\动物看病.exe
+E:\S2All\第一本书\动物看病\动物看病\bin\Debug\动物看病.pdb

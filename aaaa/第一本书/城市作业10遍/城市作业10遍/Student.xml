@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<country name="中国">
+  <province name="江苏">
+    <city>徐州市</city>
+  </province>
+  <province name="山东省">
+    <city>青岛市</city>
+  </province>
+  <province name="安徽省">
+    <city>合肥市</city>
+  </province>
+</country>
